@@ -1,0 +1,7 @@
+POST http://127.0.0.1:8080/recipe
+Content-Type: application/json
+
+{
+  "id": "100",
+  "name": "Cheeseburger",
+}
